@@ -33,12 +33,12 @@ Want to learn:
 
 
 #### Education
-[x] (2019) [The Modern JavaScript Bootcamp (Udemy)](https://www.udemy.com/course/modern-javascript/) 
-* [JS Bootcamp Code](https://github.com/SonOfGlory/Andrew-Mead-udemy.com-)
-[x] (2013) PHP course [(BVBLogic)](https://bvblogic.com/) 
-* [BVBLogic Code](https://github.com/SonOfGlory/denys.marytchak/tree/master/BVB%20test%20site)
-[x] (2013) WebUI course [SoftServe](https://www.softserveinc.com/en-us/) 
-* [SoftServe Code](https://github.com/SonOfGlory/denys.marytchak)
+* (2019) [The Modern JavaScript Bootcamp (Udemy)](https://www.udemy.com/course/modern-javascript/) 
+    * [JS Bootcamp Code](https://github.com/SonOfGlory/Andrew-Mead-udemy.com-)
+* (2013) PHP course [(BVBLogic)](https://bvblogic.com/) 
+    * [BVBLogic Code](https://github.com/SonOfGlory/denys.marytchak/tree/master/BVB%20test%20site)
+* (2013) WebUI course [SoftServe](https://www.softserveinc.com/en-us/) 
+    * [SoftServe Code](https://github.com/SonOfGlory/denys.marytchak)
 
 #### Languages
 - [x] English: B2-C1
