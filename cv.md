@@ -40,3 +40,5 @@ Want to learn:
 #### Languages
 - [x] English: B2-C1
 - [x] Polish:  C1-C2
+- [x] Russian: C2
+- [x] Ukrainian: C2
