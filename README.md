@@ -1,2 +1,1 @@
-# rsschool-cv
-GitHub account for RS school
+https://sonofglory.github.io/rsschool-cv/
