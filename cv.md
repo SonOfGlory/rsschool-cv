@@ -6,7 +6,7 @@
 - Address: Krakow, Poland
 
 #### Summary 
-A talented, multilingual ukrainian with mind of a scientist and passion of artist. Already made test website, still not Junior but with have decent front-end experience.
+A talented, multilingual ukrainian with mind of a scientist and passion of artist. Already made test website, still not Junior but has decent front-end experience.
 
 Want to learn:
  - [ ] Sass/Less
@@ -15,8 +15,6 @@ Want to learn:
  - [ ] Maya
  - [ ] Adobe Premiere/Illustrator/Indesign
  - [ ] Japanese
- - [ ] Travel around the world
-
 
 #### Skills
 - [x] HTML5
@@ -31,14 +29,13 @@ Want to learn:
 #### Experience
 - [Test project](https://github.com/SonOfGlory/Scaleworks) for [Scaleworks](https://scaleworks.com/)
 
-
 #### Education
-[x] (2019) [The Modern JavaScript Bootcamp (Udemy)](https://www.udemy.com/course/modern-javascript/) 
-* [JS Bootcamp Code](https://github.com/SonOfGlory/Andrew-Mead-udemy.com-)
-[x] (2013) PHP course [(BVBLogic)](https://bvblogic.com/) 
-* [BVBLogic Code](https://github.com/SonOfGlory/denys.marytchak/tree/master/BVB%20test%20site)
-[x] (2013) WebUI course [SoftServe](https://www.softserveinc.com/en-us/) 
-* [SoftServe Code](https://github.com/SonOfGlory/denys.marytchak)
+* (2019) [The Modern JavaScript Bootcamp (Udemy)](https://www.udemy.com/course/modern-javascript/) 
+    * [JS Bootcamp Code](https://github.com/SonOfGlory/Andrew-Mead-udemy.com-)
+* (2013) PHP course [(BVBLogic)](https://bvblogic.com/) 
+    * [BVBLogic Code](https://github.com/SonOfGlory/denys.marytchak/tree/master/BVB%20test%20site)
+* (2013) WebUI course [SoftServe](https://www.softserveinc.com/en-us/) 
+    * [SoftServe Code](https://github.com/SonOfGlory/denys.marytchak)
 
 #### Languages
 - [x] English: B2-C1
