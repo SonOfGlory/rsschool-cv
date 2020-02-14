@@ -1,9 +1,9 @@
 # Denys Marytchak
 
 #### Contact data 
-* [LinkedIn](https://www.linkedin.com/in/denys-marytchak-a7903367/) 
-* [denys.marytchak@gmail.com](mailto:contact@osf-global.com) 
-* Krakow, Poland
+- [LinkedIn profile](https://www.linkedin.com/in/denys-marytchak-a7903367/) 
+- [denys.marytchak@gmail.com](mailto:contact@osf-global.com) 
+- Address: Krakow, Poland
 
 #### Summary 
 A talented, multilingual ukrainian with mind of a scientist and passion of artist. Already made test website, still not Junior but with have decent front-end experience.
@@ -25,7 +25,6 @@ Want to learn:
 - [x] JS/jQuery
 - [x] Scrum
 
-<<<<<<< HEAD
 #### Code examples
 [Test website](https://fervent-mayer-af8a11.netlify.com/)
 
