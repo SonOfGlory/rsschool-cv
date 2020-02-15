@@ -1,5 +1,35 @@
+
+body {
+    display: flex;
+    vertical-align: middle;
+    margin: 5px;
+    background-color: #e4d4bc;
+    color: #301b01;
+}
+
 main {
     max-width: 1024px;
     margin: 0 auto;
-    padding-bottom: 25px;
+    background-color: #faead3;
+    border-radius: 20px;
+}
+
+section {
+margin: 10px;
+}
+
+.personal-info {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #d8b682;
+    color: #301b01;
+}
+
+.photo img {
+    width: 200px;
+    border: solid #301b01 5px;
+    border-radius: 50%;
 }
