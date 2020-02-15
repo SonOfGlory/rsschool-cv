@@ -2,7 +2,7 @@
 
 #### Contact data 
 - [LinkedIn profile](https://www.linkedin.com/in/denys-marytchak-a7903367/) 
-- [denys.marytchak@gmail.com](mailto:contact@osf-global.com) 
+- [denys.marytchak@gmail.com](mailto:denys.marytchak@gmail.com) 
 - Address: Krakow, Poland
 
 #### Summary 
