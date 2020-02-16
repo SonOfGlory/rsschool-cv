@@ -1,0 +1,69 @@
+
+body {
+    display: flex;
+    margin: 5px;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: #301b01;
+    background-color: #e4d4bc;
+}
+
+main {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #faead3;
+    border-radius: 20px;
+}
+
+section {
+    margin: 10px;
+    vertical-align: middle;
+}
+
+a {
+    color: #744002;
+    font-weight: bold;
+
+}
+
+.personal-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px 0px;
+    color: #301b01;
+    background-color: #d8b682;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.photo img {
+    width: 200px;
+    border: solid #e4d4bc 5px;
+    border-radius: 50%;
+}
+
+/*                                                     Divider                                                     */
+
+/* Base Divider class */
+.divider {
+    display: flex;
+  }
+  .divider:before,
+  .divider:after {
+    content: "";
+    flex: 1;
+  }
+  
+  /* Base line */
+  .line {
+    align-items: center;
+    margin: 1em -1em 1em;
+  }
+  .line:before, .line:after {
+    height: 2px;
+    margin: 0 1em;
+  }
+  
+  .line-light:before, .line-light:after {
+    background: #d8b682;
+  }
